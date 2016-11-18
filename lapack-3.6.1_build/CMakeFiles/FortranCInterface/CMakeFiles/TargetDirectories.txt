@@ -1,0 +1,5 @@
+C:/Users/Johan/Documents/GitHub/C-Example-BLAS_Test_1/lapack-3.6.1_build/CMakeFiles/FortranCInterface/CMakeFiles/myfort.dir
+C:/Users/Johan/Documents/GitHub/C-Example-BLAS_Test_1/lapack-3.6.1_build/CMakeFiles/FortranCInterface/CMakeFiles/symbols.dir
+C:/Users/Johan/Documents/GitHub/C-Example-BLAS_Test_1/lapack-3.6.1_build/CMakeFiles/FortranCInterface/CMakeFiles/edit_cache.dir
+C:/Users/Johan/Documents/GitHub/C-Example-BLAS_Test_1/lapack-3.6.1_build/CMakeFiles/FortranCInterface/CMakeFiles/FortranCInterface.dir
+C:/Users/Johan/Documents/GitHub/C-Example-BLAS_Test_1/lapack-3.6.1_build/CMakeFiles/FortranCInterface/CMakeFiles/rebuild_cache.dir

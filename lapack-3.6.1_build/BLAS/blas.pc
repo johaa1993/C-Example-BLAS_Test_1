@@ -1,0 +1,9 @@
+prefix=C:/Users/Johan/Documents/GitHub/C-Example-BLAS_Test_1/lapack-3.6.1_build
+libdir=C:/Users/Johan/Documents/GitHub/C-Example-BLAS_Test_1/lapack-3.6.1_build/
+
+Name: blas
+Description: Basic Linear Algebra Subprograms F77 reference implementations
+Version: 3.6.1
+URL: http://www.netlib.org/blas/
+Libs: -LC:/Users/Johan/Documents/GitHub/C-Example-BLAS_Test_1/lapack-3.6.1_build/ -lblas
+Libs.private: -lm

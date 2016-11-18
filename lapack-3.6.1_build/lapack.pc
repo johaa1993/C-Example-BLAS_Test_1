@@ -1,0 +1,9 @@
+prefix=C:/Users/Johan/Documents/GitHub/C-Example-BLAS_Test_1/lapack-3.6.1_build
+libdir=C:/Users/Johan/Documents/GitHub/C-Example-BLAS_Test_1/lapack-3.6.1_build/
+
+Name: lapack
+Description: FORTRAN reference implementation of LAPACK Linear Algebra PACKage
+Version: 3.6.1
+URL: http://www.netlib.org/lapack/
+Libs: -LC:/Users/Johan/Documents/GitHub/C-Example-BLAS_Test_1/lapack-3.6.1_build/ -llapack
+Requires: blas

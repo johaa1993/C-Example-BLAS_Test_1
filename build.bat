@@ -1,0 +1,1 @@
+gcc main.c -I lapack-3.6.1_build\include -L lapack-3.6.1_build\lib -lcblas -lblas
